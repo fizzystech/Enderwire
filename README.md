@@ -38,3 +38,4 @@ For my Ender 3 V2 the extrusion cutout guard did not fit as its 40mm wide so I h
 ![alt text](https://i.imgur.com/wy502Rg.png)
 
 Last but not least is the Wago mount that I used to manage the main power wires to the 24V PSU.
+<b>Wago Mount 3x3.stl</b>
