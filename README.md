@@ -1,4 +1,4 @@
-# Enderwire
+# Ender 3 V2 to Switchwire conversion (Enderwire)
 
 Here are all the files I either created from scratch and modified for my Ender 3 V2 conversion.
 
