@@ -11,6 +11,6 @@ Below is the screen mount I designed from scratch which is for the BTT Pi TFT50 
 
 For those with the BTT Pi TFT43 screen, I have created a 2 piece screen mount (was my initial design) that also fits onto the standard middle grill.
 
-<b>SW BTT Pi TFT43 Frame Rear.stl</b>
+<b>SW BTT Pi TFT43 Frame Rear.stl</b><br>
 <b>SW BTT Pi TFT43 Screen Enclosure.stl</b>
 ![alt text](https://i.imgur.com/U0UMciF.jpeg)
